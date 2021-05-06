@@ -1,0 +1,2 @@
+Prefix plugins/PCPoints/example
+Plugin PCPoints inputfile parameters.pcpoints.txt outputfile coordinates.tsv

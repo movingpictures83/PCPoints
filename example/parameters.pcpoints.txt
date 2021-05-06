@@ -1,0 +1,3 @@
+infile	unifrac.txt
+mapping	Fasting_Map.txt
+group	A
